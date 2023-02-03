@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(105, 0, 0);
+}
+
+.hubLogo {
+    width: 230px;
+    height: 230px;
+    margin: auto;
+    display: flex;
+    position: relative;
+    top: 220px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+.discordLogo {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    position: relative;
+    top: 400px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
